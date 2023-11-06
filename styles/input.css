@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    /*outline: 1px solid red;*/
+}
+
+form {
+    padding: 2rem;
+    border: 1px solid #ccc;
+    border-radius: .5rem;
+    box-shadow: 0 0 1rem #ccc;
+}
